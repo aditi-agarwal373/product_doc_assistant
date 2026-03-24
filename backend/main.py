@@ -1,4 +1,4 @@
-"""
+from backend.rag_engine import process_pdf, ask_question"""
 FastAPI Backend for Product Documentation Assistant
 ----------------------------------------------------
 Exposes two endpoints:
